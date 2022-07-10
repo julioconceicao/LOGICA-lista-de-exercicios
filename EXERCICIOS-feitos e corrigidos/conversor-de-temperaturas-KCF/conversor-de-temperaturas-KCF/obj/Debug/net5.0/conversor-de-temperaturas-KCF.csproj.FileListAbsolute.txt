@@ -1,0 +1,16 @@
+C:\Users\Julio\Documents\LOGIC-exercises\conversor-de-temperaturas-KCF\conversor-de-temperaturas-KCF\bin\Debug\net5.0\conversor-de-temperaturas-KCF.exe
+C:\Users\Julio\Documents\LOGIC-exercises\conversor-de-temperaturas-KCF\conversor-de-temperaturas-KCF\bin\Debug\net5.0\conversor-de-temperaturas-KCF.deps.json
+C:\Users\Julio\Documents\LOGIC-exercises\conversor-de-temperaturas-KCF\conversor-de-temperaturas-KCF\bin\Debug\net5.0\conversor-de-temperaturas-KCF.runtimeconfig.json
+C:\Users\Julio\Documents\LOGIC-exercises\conversor-de-temperaturas-KCF\conversor-de-temperaturas-KCF\bin\Debug\net5.0\conversor-de-temperaturas-KCF.runtimeconfig.dev.json
+C:\Users\Julio\Documents\LOGIC-exercises\conversor-de-temperaturas-KCF\conversor-de-temperaturas-KCF\bin\Debug\net5.0\conversor-de-temperaturas-KCF.dll
+C:\Users\Julio\Documents\LOGIC-exercises\conversor-de-temperaturas-KCF\conversor-de-temperaturas-KCF\bin\Debug\net5.0\conversor-de-temperaturas-KCF.pdb
+C:\Users\Julio\Documents\LOGIC-exercises\conversor-de-temperaturas-KCF\conversor-de-temperaturas-KCF\obj\Debug\net5.0\conversor-de-temperaturas-KCF.csproj.AssemblyReference.cache
+C:\Users\Julio\Documents\LOGIC-exercises\conversor-de-temperaturas-KCF\conversor-de-temperaturas-KCF\obj\Debug\net5.0\conversor-de-temperaturas-KCF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio\Documents\LOGIC-exercises\conversor-de-temperaturas-KCF\conversor-de-temperaturas-KCF\obj\Debug\net5.0\conversor-de-temperaturas-KCF.AssemblyInfoInputs.cache
+C:\Users\Julio\Documents\LOGIC-exercises\conversor-de-temperaturas-KCF\conversor-de-temperaturas-KCF\obj\Debug\net5.0\conversor-de-temperaturas-KCF.AssemblyInfo.cs
+C:\Users\Julio\Documents\LOGIC-exercises\conversor-de-temperaturas-KCF\conversor-de-temperaturas-KCF\obj\Debug\net5.0\conversor-de-temperaturas-KCF.csproj.CoreCompileInputs.cache
+C:\Users\Julio\Documents\LOGIC-exercises\conversor-de-temperaturas-KCF\conversor-de-temperaturas-KCF\obj\Debug\net5.0\conversor-de-temperaturas-KCF.dll
+C:\Users\Julio\Documents\LOGIC-exercises\conversor-de-temperaturas-KCF\conversor-de-temperaturas-KCF\obj\Debug\net5.0\refint\conversor-de-temperaturas-KCF.dll
+C:\Users\Julio\Documents\LOGIC-exercises\conversor-de-temperaturas-KCF\conversor-de-temperaturas-KCF\obj\Debug\net5.0\conversor-de-temperaturas-KCF.pdb
+C:\Users\Julio\Documents\LOGIC-exercises\conversor-de-temperaturas-KCF\conversor-de-temperaturas-KCF\obj\Debug\net5.0\conversor-de-temperaturas-KCF.genruntimeconfig.cache
+C:\Users\Julio\Documents\LOGIC-exercises\conversor-de-temperaturas-KCF\conversor-de-temperaturas-KCF\obj\Debug\net5.0\ref\conversor-de-temperaturas-KCF.dll

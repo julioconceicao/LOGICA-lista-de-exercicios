@@ -1,0 +1,16 @@
+C:\Users\Julio\Documents\LOGIC-exercises\caixa-retangular\caixa-retangular\bin\Debug\net5.0\caixa-retangular.exe
+C:\Users\Julio\Documents\LOGIC-exercises\caixa-retangular\caixa-retangular\bin\Debug\net5.0\caixa-retangular.deps.json
+C:\Users\Julio\Documents\LOGIC-exercises\caixa-retangular\caixa-retangular\bin\Debug\net5.0\caixa-retangular.runtimeconfig.json
+C:\Users\Julio\Documents\LOGIC-exercises\caixa-retangular\caixa-retangular\bin\Debug\net5.0\caixa-retangular.runtimeconfig.dev.json
+C:\Users\Julio\Documents\LOGIC-exercises\caixa-retangular\caixa-retangular\bin\Debug\net5.0\caixa-retangular.dll
+C:\Users\Julio\Documents\LOGIC-exercises\caixa-retangular\caixa-retangular\bin\Debug\net5.0\caixa-retangular.pdb
+C:\Users\Julio\Documents\LOGIC-exercises\caixa-retangular\caixa-retangular\obj\Debug\net5.0\caixa-retangular.csproj.AssemblyReference.cache
+C:\Users\Julio\Documents\LOGIC-exercises\caixa-retangular\caixa-retangular\obj\Debug\net5.0\caixa-retangular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio\Documents\LOGIC-exercises\caixa-retangular\caixa-retangular\obj\Debug\net5.0\caixa-retangular.AssemblyInfoInputs.cache
+C:\Users\Julio\Documents\LOGIC-exercises\caixa-retangular\caixa-retangular\obj\Debug\net5.0\caixa-retangular.AssemblyInfo.cs
+C:\Users\Julio\Documents\LOGIC-exercises\caixa-retangular\caixa-retangular\obj\Debug\net5.0\caixa-retangular.csproj.CoreCompileInputs.cache
+C:\Users\Julio\Documents\LOGIC-exercises\caixa-retangular\caixa-retangular\obj\Debug\net5.0\caixa-retangular.dll
+C:\Users\Julio\Documents\LOGIC-exercises\caixa-retangular\caixa-retangular\obj\Debug\net5.0\refint\caixa-retangular.dll
+C:\Users\Julio\Documents\LOGIC-exercises\caixa-retangular\caixa-retangular\obj\Debug\net5.0\caixa-retangular.pdb
+C:\Users\Julio\Documents\LOGIC-exercises\caixa-retangular\caixa-retangular\obj\Debug\net5.0\caixa-retangular.genruntimeconfig.cache
+C:\Users\Julio\Documents\LOGIC-exercises\caixa-retangular\caixa-retangular\obj\Debug\net5.0\ref\caixa-retangular.dll

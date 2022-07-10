@@ -1,0 +1,16 @@
+C:\Users\Julio\Documents\LOGIC-exercises\Fahrenheit-para-Ceusius\Fahrenheit-para-Ceusius\bin\Debug\net5.0\Fahrenheit-para-Ceusius.exe
+C:\Users\Julio\Documents\LOGIC-exercises\Fahrenheit-para-Ceusius\Fahrenheit-para-Ceusius\bin\Debug\net5.0\Fahrenheit-para-Ceusius.deps.json
+C:\Users\Julio\Documents\LOGIC-exercises\Fahrenheit-para-Ceusius\Fahrenheit-para-Ceusius\bin\Debug\net5.0\Fahrenheit-para-Ceusius.runtimeconfig.json
+C:\Users\Julio\Documents\LOGIC-exercises\Fahrenheit-para-Ceusius\Fahrenheit-para-Ceusius\bin\Debug\net5.0\Fahrenheit-para-Ceusius.runtimeconfig.dev.json
+C:\Users\Julio\Documents\LOGIC-exercises\Fahrenheit-para-Ceusius\Fahrenheit-para-Ceusius\bin\Debug\net5.0\Fahrenheit-para-Ceusius.dll
+C:\Users\Julio\Documents\LOGIC-exercises\Fahrenheit-para-Ceusius\Fahrenheit-para-Ceusius\bin\Debug\net5.0\Fahrenheit-para-Ceusius.pdb
+C:\Users\Julio\Documents\LOGIC-exercises\Fahrenheit-para-Ceusius\Fahrenheit-para-Ceusius\obj\Debug\net5.0\Fahrenheit-para-Ceusius.csproj.AssemblyReference.cache
+C:\Users\Julio\Documents\LOGIC-exercises\Fahrenheit-para-Ceusius\Fahrenheit-para-Ceusius\obj\Debug\net5.0\Fahrenheit-para-Ceusius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio\Documents\LOGIC-exercises\Fahrenheit-para-Ceusius\Fahrenheit-para-Ceusius\obj\Debug\net5.0\Fahrenheit-para-Ceusius.AssemblyInfoInputs.cache
+C:\Users\Julio\Documents\LOGIC-exercises\Fahrenheit-para-Ceusius\Fahrenheit-para-Ceusius\obj\Debug\net5.0\Fahrenheit-para-Ceusius.AssemblyInfo.cs
+C:\Users\Julio\Documents\LOGIC-exercises\Fahrenheit-para-Ceusius\Fahrenheit-para-Ceusius\obj\Debug\net5.0\Fahrenheit-para-Ceusius.csproj.CoreCompileInputs.cache
+C:\Users\Julio\Documents\LOGIC-exercises\Fahrenheit-para-Ceusius\Fahrenheit-para-Ceusius\obj\Debug\net5.0\Fahrenheit-para-Ceusius.dll
+C:\Users\Julio\Documents\LOGIC-exercises\Fahrenheit-para-Ceusius\Fahrenheit-para-Ceusius\obj\Debug\net5.0\refint\Fahrenheit-para-Ceusius.dll
+C:\Users\Julio\Documents\LOGIC-exercises\Fahrenheit-para-Ceusius\Fahrenheit-para-Ceusius\obj\Debug\net5.0\Fahrenheit-para-Ceusius.pdb
+C:\Users\Julio\Documents\LOGIC-exercises\Fahrenheit-para-Ceusius\Fahrenheit-para-Ceusius\obj\Debug\net5.0\Fahrenheit-para-Ceusius.genruntimeconfig.cache
+C:\Users\Julio\Documents\LOGIC-exercises\Fahrenheit-para-Ceusius\Fahrenheit-para-Ceusius\obj\Debug\net5.0\ref\Fahrenheit-para-Ceusius.dll
