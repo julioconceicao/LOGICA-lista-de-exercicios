@@ -1,0 +1,16 @@
+C:\Users\Julio\Documents\LOGIC-exercises\calculo-criacao-de-coelhos\calculo-criacao-de-coelhos\bin\Debug\net5.0\calculo-criacao-de-coelhos.exe
+C:\Users\Julio\Documents\LOGIC-exercises\calculo-criacao-de-coelhos\calculo-criacao-de-coelhos\bin\Debug\net5.0\calculo-criacao-de-coelhos.deps.json
+C:\Users\Julio\Documents\LOGIC-exercises\calculo-criacao-de-coelhos\calculo-criacao-de-coelhos\bin\Debug\net5.0\calculo-criacao-de-coelhos.runtimeconfig.json
+C:\Users\Julio\Documents\LOGIC-exercises\calculo-criacao-de-coelhos\calculo-criacao-de-coelhos\bin\Debug\net5.0\calculo-criacao-de-coelhos.runtimeconfig.dev.json
+C:\Users\Julio\Documents\LOGIC-exercises\calculo-criacao-de-coelhos\calculo-criacao-de-coelhos\bin\Debug\net5.0\calculo-criacao-de-coelhos.dll
+C:\Users\Julio\Documents\LOGIC-exercises\calculo-criacao-de-coelhos\calculo-criacao-de-coelhos\bin\Debug\net5.0\calculo-criacao-de-coelhos.pdb
+C:\Users\Julio\Documents\LOGIC-exercises\calculo-criacao-de-coelhos\calculo-criacao-de-coelhos\obj\Debug\net5.0\calculo-criacao-de-coelhos.csproj.AssemblyReference.cache
+C:\Users\Julio\Documents\LOGIC-exercises\calculo-criacao-de-coelhos\calculo-criacao-de-coelhos\obj\Debug\net5.0\calculo-criacao-de-coelhos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio\Documents\LOGIC-exercises\calculo-criacao-de-coelhos\calculo-criacao-de-coelhos\obj\Debug\net5.0\calculo-criacao-de-coelhos.AssemblyInfoInputs.cache
+C:\Users\Julio\Documents\LOGIC-exercises\calculo-criacao-de-coelhos\calculo-criacao-de-coelhos\obj\Debug\net5.0\calculo-criacao-de-coelhos.AssemblyInfo.cs
+C:\Users\Julio\Documents\LOGIC-exercises\calculo-criacao-de-coelhos\calculo-criacao-de-coelhos\obj\Debug\net5.0\calculo-criacao-de-coelhos.csproj.CoreCompileInputs.cache
+C:\Users\Julio\Documents\LOGIC-exercises\calculo-criacao-de-coelhos\calculo-criacao-de-coelhos\obj\Debug\net5.0\calculo-criacao-de-coelhos.dll
+C:\Users\Julio\Documents\LOGIC-exercises\calculo-criacao-de-coelhos\calculo-criacao-de-coelhos\obj\Debug\net5.0\refint\calculo-criacao-de-coelhos.dll
+C:\Users\Julio\Documents\LOGIC-exercises\calculo-criacao-de-coelhos\calculo-criacao-de-coelhos\obj\Debug\net5.0\calculo-criacao-de-coelhos.pdb
+C:\Users\Julio\Documents\LOGIC-exercises\calculo-criacao-de-coelhos\calculo-criacao-de-coelhos\obj\Debug\net5.0\calculo-criacao-de-coelhos.genruntimeconfig.cache
+C:\Users\Julio\Documents\LOGIC-exercises\calculo-criacao-de-coelhos\calculo-criacao-de-coelhos\obj\Debug\net5.0\ref\calculo-criacao-de-coelhos.dll
